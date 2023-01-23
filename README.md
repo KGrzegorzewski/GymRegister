@@ -22,3 +22,9 @@ Listę taką muszę przygotować ja, wydrukować dostarczyć.
 
 Jak zautomatyzować?
 Telefon podłączony do sieci, w której znajduje się serwer. Skanowanie QRCodu -> sprawdzenie czy cżłonek jest w bazie (czy jego karta jest ważna). Wiadomość zwrotna do Pani ze smartfona. Następnie po skanowaniu takiego delikwenta kolega zostaje utworzony rekord wejścia na siłownie z datą i godziną otrzymania klucza. 
+
+
+Technologie:
+Python - docx, 
+Word,
+mySQL, 
